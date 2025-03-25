@@ -1,0 +1,14 @@
+[
+    [
+        "https://public.api.bsky.app/xrpc/com.atproto.repo.getRecord?repo=did:plc:hx53snho72xoj7zqt5uice4u&collection=app.bsky.actor.profile&rkey=self",
+        "at://did:plc:hx53snho72xoj7zqt5uice4u/app.bsky.actor.profile/self"
+    ],
+    [
+        "https://hollowfoot.us-west.host.bsky.network/xrpc/com.atproto.repo.listRecords?repo=did:plc:watlxw5urzxprk2tziey3ocl&collection=app.bsky.feed.like&limit=100",
+        "at://did:plc:watlxw5urzxprk2tziey3ocl/app.bsky.feed.like"
+    ],
+    [
+        "https://hollowfoot.us-west.host.bsky.network/xrpc/com.atproto.sync.listBlobs?did=did:plc:watlxw5urzxprk2tziey3ocl&limit=1000",
+        "at://did:plc:watlxw5urzxprk2tziey3ocl/blobs"
+    ]
+]

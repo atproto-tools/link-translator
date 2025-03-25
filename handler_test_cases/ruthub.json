@@ -1,0 +1,18 @@
+[
+    [
+        "https://ruthub.com/kb/ruthub.com",
+        "at://did:plc:vd3bvirbooxanq7rc4myzxym/com.ruthub.kanban"
+    ],
+    [
+        "https://ruthub.com/blog/did:plc:vd3bvirbooxanq7rc4myzxym",
+        "at://did:plc:vd3bvirbooxanq7rc4myzxym/com.ruthub.entry"
+    ],
+    [
+        "https://ruthub.com/p/did:plc:vd3bvirbooxanq7rc4myzxym/17401621912133120",
+        "at://did:plc:vd3bvirbooxanq7rc4myzxym/com.ruthub.entry/17401621912133120"
+    ],
+    [
+        "https://ruthub.com/rut/did:plc:vd3bvirbooxanq7rc4myzxym",
+        "at://did:plc:vd3bvirbooxanq7rc4myzxym/com.ruthub.item"
+    ]
+]

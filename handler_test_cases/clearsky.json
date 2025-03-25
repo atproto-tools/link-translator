@@ -1,0 +1,14 @@
+[
+    [
+        "https://clearsky.app/souris.moe/blocking",
+        "at://did:plc:tj7g244gl5v6ai6cm4f4wlqp/app.bsky.graph.block"
+    ],
+    [
+        "https://clearsky.app/souris.moe/history",
+        "at://did:plc:tj7g244gl5v6ai6cm4f4wlqp/app.bsky.feed.post"
+    ],
+    [
+        "https://clearsky.app/bsky.app/packs",
+        "at://did:plc:z72i7hdynmk6r22z27h6tvur/app.bsky.graph.starterpack"
+    ]
+]
